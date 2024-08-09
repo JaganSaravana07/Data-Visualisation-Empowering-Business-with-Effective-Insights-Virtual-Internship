@@ -12,7 +12,7 @@
 
 # TATA Data-Visualisation-Empowering-Business-with-Effective-Insights-Virtual-Internship
 
-![TATA logo](https://images.app.goo.gl/VnuSZR9K9UaiPYgi6)
+![TATA logo]([https://images.app.goo.gl/VnuSZR9K9UaiPYgi6](https://1000logos.net/wp-content/uploads/2020/04/Tata-Logo-1988.png)
 
 The virtual experience program is offered by Tata Insights and Quants, also known as Tata iQ. I learn how driven, interdisciplinary professionals tackle the most challenging business issues and unearth enlightening discoveries from the masses of generated data by using data visualisation tools like Tableau and Power BI.
 

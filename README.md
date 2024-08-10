@@ -2,9 +2,7 @@
 
 ![TATA logo](https://1000logos.net/wp-content/uploads/2020/04/Tata-Logo-1988.png)
 
-The virtual experience program is offered by Tata Insights and Quants, also known as Tata iQ. I learn how driven, interdisciplinary professionals tackle the most challenging business issues and unearth enlightening discoveries from the masses of generated data by using data visualisation tools like Tableau and Power BI.
-
-The application attempts to mimic the challenges that a person could face and illustrates the types of problems that Tata Insights and Quants deal with on a daily basis.
+The **Data Visualisation: Empowering Business with Effective Insights** program by Forage and Tata is designed to enhance participants' skills in data analysis and visualization. Through real-world business scenarios, participants learn how to create effective visualizations using tools like Tableau and Power BI, interpret key business metrics, and present actionable insights to senior management. The program focuses on strategic decision-making, ensuring that participants can effectively communicate data-driven recommendations for business growth.
 
 ## Certificate
 [Click Here](https://github.com/JaganSaravana07/TATA-Data-Visualisation-Empowering-Business-with-Effective-Insights-Virtual-Internship/blob/main/Tata%20Group_Data%20Visualization_completion_certificate.pdf)

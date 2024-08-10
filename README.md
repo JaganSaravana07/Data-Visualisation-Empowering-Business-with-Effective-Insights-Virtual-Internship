@@ -121,6 +121,28 @@ The CEO is looking to gain insights on the demand for their products. He wants t
 
 ## Task 4 - Communicating Insights and Analysis
 
+Explain how your findings apply to each scenario and effectively communicate them.
+
+#### Background knowledge and context
+
+Time to provide the CEO and CMO a report on your findings. Your methodology and approach to data cleansing and visualisation are of interest to them. Clearly and concisely articulating your ideas and thought process is crucial. A clear presentation of the analysis of each of the four questions from the prior challenge is also necessary. A thorough understanding of the facts and the conclusions drawn from your study is essential.
+
+These executives prioritise growth and are interested in figuring out where their company offers the best chances for financial gain.
+
+Specifics for the assignment
+
+Based on the four questions posed by the CEO and CMO and the graphics you produced for the previous tasks, write a script and record a video to communicate your results.
+
+To develop your presentation, you can refer to your work or the sample response from the prior challenge.
+
+To let your executives know that you've done your research and are offering error-free analysis, you should discuss every stage of your process in your script, including the initial data load and cleanup procedures. There is a wealth of information available from data analysis, but keep in mind that your leaders care about the information that matters most to them.
+
+The duration of your video should be roughly five minutes. You can upload a video from your smartphone or record one in the browser below.
+
+Recall that you are presenting to the CEO and CMO, so this is not just a read-out of your images. You must explain each scenario and how it pertains to their questions.
+
+
+
 
 
 

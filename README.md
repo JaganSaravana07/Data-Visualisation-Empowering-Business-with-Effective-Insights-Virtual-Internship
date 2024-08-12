@@ -4,9 +4,6 @@
 
 The **Data Visualisation: Empowering Business with Effective Insights** program by Forage and Tata is designed to enhance participants' skills in data analysis and visualization. Through real-world business scenarios, participants learn how to create effective visualizations using tools like Tableau and Power BI, interpret key business metrics, and present actionable insights to senior management. The program focuses on strategic decision-making, ensuring that participants can effectively communicate data-driven recommendations for business growth.
 
-## Certificate
-[Click Here](https://github.com/JaganSaravana07/TATA-Data-Visualisation-Empowering-Business-with-Effective-Insights-Virtual-Internship/blob/main/Tata%20Group_Data%20Visualization_completion_certificate.pdf)
-
 ## There are 4 modules in this virtual experience programme
 ♦ Framing the Business Scenario
 
@@ -126,6 +123,8 @@ To let your executives know that you've done your research and are offering erro
 The duration of your video should be roughly five minutes. You can upload a video from your smartphone or record one in the browser below.
 
 Recall that you are presenting to the CEO and CMO, so this is not just a read-out of your images. You must explain each scenario and how it pertains to their questions.
+
+#### Course Completion Certificate: [Click Here](https://github.com/JaganSaravana07/TATA-Data-Visualisation-Empowering-Business-with-Effective-Insights-Virtual-Internship/blob/main/Tata%20Group_Data%20Visualization_completion_certificate.pdf)
 
 
 
